@@ -1,5 +1,15 @@
 # Ignite Lab 4
+ 
+Nessa edição do Ignite Lab criamos um micro serviço de notificações, utilizando o Nestjs, Prisma e Jest para fazer os testes dos use cases
 
-## Notifications Service
+Comando para rodar os testes
 
-**Bora Coda**
+```
+npm run test
+```
+
+Comando para rodar a aplicação 
+
+```
+npm start:dev
+```
